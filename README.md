@@ -69,12 +69,20 @@ Done -> Closed, Open.
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/3.png)
 
 
+Перехожу в Scrum, запланировал новый спринт и провожу задачи до состояния Closed. 
+
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/4.png)
+
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/5.png)
+
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/6.png) 
 
 
+Выгруженные схемы Workflow:
 
+[Bug Workflow](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/Bug%20Workflow.xml) 
 
-
-
+[Standart Workflow](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/Standard%20Workflow.xml)
 
 
 

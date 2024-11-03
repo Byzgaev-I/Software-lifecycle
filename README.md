@@ -71,7 +71,7 @@ Done -> Closed, Open.
 
 Перехожу в Scrum, запланировал новый спринт и провожу задачи до состояния Closed. 
 
-![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/4.png)
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/5.png)
 
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/5.5.png)
 

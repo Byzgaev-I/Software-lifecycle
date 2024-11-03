@@ -42,6 +42,8 @@ Done -> Closed, Open.
 Зарегистровался в Jira.  
 Создал доски Kanban и Scrum.  
 
+ ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/1.png)
+
 Создание Workflow для Bug:  
 Задачи типа bug должны проходить жизненный цикл:  
   
@@ -53,7 +55,7 @@ Done fix -> On test.
 On test -> On fix, Done.  
 Done -> Closed, Open.  
 
-
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/2.png)
 
 
 

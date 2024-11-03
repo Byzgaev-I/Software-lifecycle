@@ -37,5 +37,58 @@ Done -> Closed, Open.
 5) Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.  
 6) Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.  
 
-### Выполнение подготовки
+### Выполнение задания:
+
+ЭТАП 1: Создание проекта в Jira:
+
+Зарегистровался в Jira.  
+Создал доски Kanban и Scrum.  
+
+Создание Workflow для Bug:  
+Задачи типа bug должны проходить жизненный цикл:  
+  
+Open -> On reproduce.    
+On reproduce -> Open, Done reproduce.    
+Done reproduce -> On fix.  
+On fix -> On reproduce, Done fix.  
+Done fix -> On test.  
+On test -> On fix, Done.  
+Done -> Closed, Open.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

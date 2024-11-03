@@ -75,6 +75,8 @@ Done -> Closed, Open.
 
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/5.png)
 
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/5.5.png)
+
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/6.png) 
 
 

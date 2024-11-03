@@ -78,7 +78,7 @@ Done -> Closed, Open.
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/6.png) 
 
 
-Выгруженные схемы Workflow:
+### Выгруженные схемы Workflow:
 
 [Bug Workflow](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/Bug%20Workflow.xml) 
 

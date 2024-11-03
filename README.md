@@ -58,6 +58,17 @@ Done -> Closed, Open.
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/2.png)
 
 
+Создаю остальные задачи и они проходят по упрощённому workflow:  
+  
+Open -> On develop.  
+On develop -> Open, Done develop.  
+Done develop -> On test.  
+On test -> On develop, Done.  
+Done -> Closed, Open.  
+Что нужно сделать: 
+
+![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/3.png)
+
 
 
 

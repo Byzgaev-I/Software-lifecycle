@@ -20,6 +20,7 @@ On fix -> On reproduce, Done fix.
 Done fix -> On test.  
 On test -> On fix, Done.  
 Done -> Closed, Open.  
+  
 Остальные задачи должны проходить по упрощённому workflow:  
   
 Open -> On develop.  

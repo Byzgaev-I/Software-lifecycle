@@ -65,7 +65,6 @@ On develop -> Open, Done develop.
 Done develop -> On test.  
 On test -> On develop, Done.  
 Done -> Closed, Open.  
-Что нужно сделать: 
 
 ![image.jpg](https://github.com/Byzgaev-I/Software-lifecycle/blob/main/3.png)
 
